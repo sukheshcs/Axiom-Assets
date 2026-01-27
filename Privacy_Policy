@@ -1,0 +1,31 @@
+Privacy Policy for Axiom Assets
+Effective Date: January 27, 2026
+
+Introduction
+Axiom Assets ("we," "our," or "us") respects your privacy and is committed to protecting the personal and sensitive information you store within our application. This Privacy Policy explains how our Windows desktop application handles your data.
+
+Data Collection and Storage
+Axiom Assets is an offline-first desktop application.
+
+Local Storage: All data entered into the application (including asset details, employee information, and configuration settings) is stored locally on your device in a secure SQLite database file located within your user directory.
+No Cloud Transmission: We do not transmit, sync, or upload your data to any external cloud servers, third-party databases, or analytics platforms. Your data remains entirely in your control on your local machine.
+Data Usage
+Since all data is stored locally:
+
+We do not have access to your data.
+We do not sell, trade, or otherwise transfer your information to outside parties.
+The data is used solely for the purpose of managing your IT assets within the application.
+User Responsibility
+Because the application operates offline and stores data locally, you are responsible for:
+
+Backups: Regularly backing up your device or the application's database file to prevent data loss.
+Security: Ensuring your device is password-protected and secure to prevent unauthorized access to the application data.
+Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Effective Date" at the top of this policy.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: 
+sukheshcs@gmail.com
+Publisher: Sukhesh Publisher
