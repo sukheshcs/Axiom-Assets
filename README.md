@@ -33,54 +33,7 @@ Axiom Assets is a robust, Electron-based desktop application designed for compre
 - [Node.js](https://nodejs.org/) (Latest LTS recommended)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
-## Installation
 
-1.  **Clone the repository**
-    ```bash
-    git clone <repository-url>
-    cd axiom-assets-desktop
-    ```
-
-2.  **Install Root Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Install Backend Dependencies**
-    ```bash
-    cd server
-    npm install
-    ```
-
-4.  **Install Frontend Dependencies**
-    ```bash
-    cd ../client
-    npm install
-    ```
-
-## Development
-
-To run the application in development mode (with hot-reload for client/server):
-
-1.  **Return to the root directory**
-    ```bash
-    cd ..
-    ```
-
-2.  **Start All Services**
-    ```bash
-    npm run dev
-    ```
-    This command concurrently starts the Express server, the Vite dev server, and the Electron window.
-
-## Building for Production
-
-To create a deployable Windows installer or portable executable:
-
-```bash
-npm run build:win
-```
-The output will be generated in the `dist` directory.
 
 ## License
 
